@@ -1,0 +1,14 @@
+23:23:13 **** Incremental Build of configuration Debug for project no to word ****
+make all 
+Building target: no to word
+Invoking: GCC C Linker
+gcc  -o "no to word"  ./src/no\ to\ ROMAN.o ./src/no\ to\ word.o   
+./src/no to word.o: In function `main':
+/home/sunbeam/DacAssign/C/no to word/Debug/../src/no to word.c:15: multiple definition of `main'
+./src/no to ROMAN.o:/home/sunbeam/DacAssign/C/no to word/Debug/../src/no to ROMAN.c:15: first defined here
+collect2: error: ld returned 1 exit status
+makefile:30: recipe for target 'no to word' failed
+make: *** [no to word] Error 1
+
+23:23:14 Build Failed. 4 errors, 0 warnings. (took 368ms)
+

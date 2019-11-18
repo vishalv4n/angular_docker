@@ -1,0 +1,30 @@
+/*
+ ============================================================================
+ Name        : priya1.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+	printf("\n no of char  =%d",printf("\n Hello World "));
+
+
+	printf(" \n \"hellow\" ");
+	printf(" \n \'hellow'\ ");
+	int ans=10;
+	return 0;
+	printf(" \n 'hellow' ");
+	printf(" \\n =%d", '\n');
+	printf(" \\t =%d", '\t');
+	printf(" \\b =%d", '\b');
+	printf(" \\a =%d", '\a');
+	printf(" \\r =%d", '\r');
+
+	return EXIT_SUCCESS;
+}

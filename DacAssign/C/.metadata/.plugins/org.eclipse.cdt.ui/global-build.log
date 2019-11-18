@@ -1,0 +1,26 @@
+00:11:42 **** Build of configuration Debug for project a3 ****
+make all 
+Building file: ../src/a3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/a3.d" -MT"src/a3.o" -o "src/a3.o" "../src/a3.c"
+../src/a3.c: In function ‘main’:
+../src/a3.c:53:8: warning: implicit declaration of function ‘exit’ [-Wimplicit-function-declaration]
+        exit(0);
+        ^
+../src/a3.c:53:8: warning: incompatible implicit declaration of built-in function ‘exit’ [enabled by default]
+Finished building: ../src/a3.c
+ 
+Building target: a3
+Invoking: GCC C Linker
+gcc  -o "a3"  ./src/a3.o   
+Finished building target: a3
+ 
+00:11:49 **** Incremental Build of configuration Debug for project a3 ****
+make all 
+make: Nothing to be done for 'all'.
+00:12:33 **** Incremental Build of configuration Debug for project a3 ****
+make all 
+make: Nothing to be done for 'all'.
+00:13:33 **** Incremental Build of configuration Debug for project a3 ****
+make all 
+make: Nothing to be done for 'all'.

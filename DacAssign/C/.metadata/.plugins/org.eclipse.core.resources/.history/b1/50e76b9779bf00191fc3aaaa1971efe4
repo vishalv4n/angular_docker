@@ -1,0 +1,21 @@
+/*
+ ============================================================================
+ Name        : vowel.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	char ch;
+	printf("\n enter char ::");
+		scanf("%c",&ch);
+	printf("\n ch=%d,ch=%c",ch,ch);
+	//if(ch)
+	return 0;
+}

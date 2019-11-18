@@ -1,0 +1,27 @@
+/*
+ ============================================================================
+ Name        : vowel.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	char ch;
+	printf("\n enter char ::");
+		scanf("%c",&ch);
+	printf("\n ch=%d,ch=%c",ch,ch);
+	if(ch>=65 && ch<=90)
+		ch+=32;
+	printf("\n char=%c",ch);
+	if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u')
+		printf("\nvowels");
+	elseif(ch>=97 && ch<=122)
+		printf("\nconsonants");
+	return 0;
+}

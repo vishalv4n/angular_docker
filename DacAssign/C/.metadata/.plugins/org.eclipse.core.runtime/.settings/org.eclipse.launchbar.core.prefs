@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:demo1,org.eclipse.launchbar.core.descriptorType.default\:priya1,org.eclipse.launchbar.core.descriptorType.default\:size,org.eclipse.launchbar.core.descriptorType.default\:if vov,org.eclipse.launchbar.core.descriptorType.default\:test,org.eclipse.launchbar.core.descriptorType.default\:vowel,org.eclipse.launchbar.core.descriptorType.default\:sir,org.eclipse.launchbar.core.descriptorType.default\:no to word,org.eclipse.launchbar.core.descriptorType.default\:NO TO ROMAN,org.eclipse.launchbar.core.descriptorType.default\:fact,org.eclipse.launchbar.core.descriptorType.default\:Assignment no 1,org.eclipse.launchbar.core.descriptorType.default\:a3
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:demo1/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:demo1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:if\ vov/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:if\ vov/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:no\ to\ word/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:sir/activeLaunchMode=run

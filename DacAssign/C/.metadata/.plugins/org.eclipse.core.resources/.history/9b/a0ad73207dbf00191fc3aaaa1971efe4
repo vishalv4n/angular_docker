@@ -1,0 +1,21 @@
+/*
+ ============================================================================
+ Name        : test.c
+ Author      : Rugveda
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+
+int main(void) {
+	char ch;
+	printf("Enter character");
+	scanf("%c",ch);
+	printf("%c",ch);
+	puts("test  character"); /* prints test  character */
+	return 0;
+}
